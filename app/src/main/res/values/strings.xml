@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">xtrack</string>
+    <string name="title_home">Track</string>
+    <string name="title_dashboard">Devices</string>
+    <string name="title_notifications">Settings</string>
+    <string name="access_token" translatable="false">sk.eyJ1IjoibmF2YXJyb2RhcCIsImEiOiJja21hZXBxMXoxcjQ1MnlrbmlkNXFqNW5iIn0.5O2-i9f1MnMUo99Xj9DyBg</string>
+    <string name="user_location_permission_explanation"></string>
+    <string name="user_location_permission_not_granted"></string>
+    <string name="new_location">New lat: %1$s New longitude: %2$s</string>
+</resources>
